@@ -28,7 +28,7 @@ section .searchbar input{
 }
 section .grid{
   width: calc(100% - 40px);
-  height: clac(100% - 40px);
+  height: calc(100% - 40px);
   margin: 20px;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
